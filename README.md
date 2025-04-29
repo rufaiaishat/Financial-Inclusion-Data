@@ -12,7 +12,20 @@ This project explores the financial inclusion dataset for Nigeria to determine p
 * Name: micro_nga.csv
 * Size: 1000 entries, 120 features
 * Main Features: Bank Account Ownership, Age Group, Gender, Region, Education Level, Internet Access, Employment Status, Any Digital Transaction, Borrowing within the past year, Savings within the past year, income quartile, receive transfers, receive wages, receive agricultural payments, receive pension, mobile account, Utility payment, Debit card ownership, mobile accouunt ownership, mobile phone ownership
-  
+
+# Project Workflow
+1. Data Preparation and Importinfg libraries
+2. Exploratory Data Analysis and Visualization
+3. Data Preparation for K-means Clustering
+4. Feature Selection (using 20 features)
+5. Finding the best K (number of clusters) using Elbow Method
+6. Applying KMeans Clustering
+7. Dimensionality reduction with PCA
+8. Cluster Analysis and Description
+9. Visualization of Clusters
+10. Using Shapley model to explain the clusters
+
+
 
 
 
