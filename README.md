@@ -10,7 +10,7 @@ This project explores the financial inclusion dataset for Nigeria to determine p
 
 # Dataset
 * File Name: micro_nga.csv
-* Source: 
+* Source: Global Financial Inclusion (Global Findex) Database 2021  
 * Size: 1000 entries, 120 features
 * Surveyed: 128,000 individuals across Nigeria
 * Sample size: 1000 individuals 
